@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sara-Farhat
 - 👀 I’m interested in data analytics and healthcare.
 - 🌱 I’m currently learning SQL, Python and Tableau
-- 💞️ I’m looking to collaborate on Python projects
+- I’m looking to collaborate on Python projects
 - 📫 How to reach me: Sara.i.farhat90@gmail.com
 
 <!---
